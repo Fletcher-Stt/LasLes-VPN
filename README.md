@@ -1,5 +1,4 @@
 # LasLes-VPN
-# LaslesVPN
 
 **Quer que qualquer coisa seja fácil com LaslesVPN**
 
